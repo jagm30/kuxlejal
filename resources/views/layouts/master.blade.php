@@ -56,7 +56,6 @@
       <a href="#inicio" class="flex items-center gap-3">
         <img src="/imagenes/logo.png" alt="Kuxlejal Café Agroecológico" class="h-12 w-auto object-contain" onerror="this.onerror=null; this.src='https://placehold.co/180x60/ffffff/4A2511?text=KUXLEJAL';">
       </a>
-
       <!-- Navegación Escritorio -->
       <nav class="hidden md:flex items-center space-x-8 font-medium text-sm text-brand-brown">
         <a href="#inicio" class="hover:text-brand-green transition-colors">Inicio</a>
